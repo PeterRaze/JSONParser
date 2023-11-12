@@ -16,8 +16,8 @@ Features to be add:
 
     3.1 Valid example
     
-    ![](Images/Valid.PNG)
+    ![](Images/Valid.png)
 
     3.2 Invalid example
 
-    ![](Images/Invalid.PNG)
+    ![](Images/Invalid.png)
